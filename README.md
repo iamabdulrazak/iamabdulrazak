@@ -1,6 +1,6 @@
 ### Hi am Abdulrazak - aka [zak][mywebsite] 👋
 
-## Student, Linux Lover, Developer, and Python Engineer!
+## Student, Linux Lover, Developer, and Data Engineer!
 - 🔭 I’m currently working as Freelance!
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to be lazy and play video games
