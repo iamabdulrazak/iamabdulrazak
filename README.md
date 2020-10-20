@@ -50,7 +50,7 @@
 <br />
 <br />
 
-<img align="left" alt="Abdulrazak's Github Status" src="https://github-readme-stats.vercel.app/api?username=iamabdulrazak&show_icons=true&hide_border=true&theme=radical"/>
+<img align="left" alt="Abdulrazak's Github Status" src="https://github-readme-stats.vercel.app/api?username=iamabdulrazak&show_icons=true&hide_border=true&theme=tokyonight"/>
 
 [mywebsite]: https://zaak.azurewebsites.net
 [facebook]:https://facebook.com/zaak000
