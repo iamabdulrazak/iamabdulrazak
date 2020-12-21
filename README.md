@@ -45,9 +45,9 @@
 <br />
 <br />
 
-<img align="left" alt="Abdulrazak Github Status" src="https://github-readme-stats.vercel.app/api?username=iamabdulrazak&show_icons=true&hide_border=true&theme=tokyonight"/>
+<img align="left" alt="Abdulrazak Github Status" src="https://github-readme-stats.vercel.app/api?username=pinocchiovirus&show_icons=true&hide_border=true&theme=tokyonight"/>
 
 [mywebsite]: https://zaak.azurewebsites.net
-[facebook]:https://facebook.com/zaak000
-[twitter]: https://twitter.com/zaak_0
-[linkedin]: https://www.linkedin.com/in/zaak0/
+[facebook]:https://facebook.com/pinocchiovirus
+[twitter]: https://twitter.com/pinocchiovirus
+[linkedin]: https://www.linkedin.com/in/pinocchiovirus/
