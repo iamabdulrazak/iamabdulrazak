@@ -1,7 +1,7 @@
 ### Hi am Abdulrazak - aka [zak][mywebsite] 👋
 
 ## Student, Linux Lover, Developer, and Data Engineer!
-- 🔭 I’m currently working as Freelance!
+- 🔭 I’m currently working as nlp researcher!
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to be lazy and play video games while coding!
 
